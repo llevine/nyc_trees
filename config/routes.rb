@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  root 'application#index'
+  get 'locations/brooklyn' => 'locations#brooklyn', as: :brooklyn
+  get 'locations/manhattan' => 'locations#manhattan', as: :manhattan
+  get 'locations/bronx' => 'locations#bronx', as: :bronx
+  get 'locations/queens' => 'locations#queens', as: :queens
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
