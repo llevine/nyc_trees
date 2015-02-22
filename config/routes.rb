@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   root 'application#index'
-  get 'locations/brooklyn' => 'locations#brooklyn', as: :brooklyn
+  post 'locations/brooklyn' => 'locations#brooklyn', as: :brooklyn
   get 'locations/manhattan' => 'locations#manhattan', as: :manhattan
   get 'locations/bronx' => 'locations#bronx', as: :bronx
   get 'locations/queens' => 'locations#queens', as: :queens

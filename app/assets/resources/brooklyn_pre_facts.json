@@ -1,0 +1,1198 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jix5-sqqz",
+      "name" : "BrooklynTree",
+      "averageRating" : 0,
+      "createdAt" : 1365609258,
+      "displayType" : "geoRows",
+      "downloadCount" : 141,
+      "indexUpdatedAt" : 1409773098,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 3144622,
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 787505,
+      "publicationStage" : "published",
+      "tableId" : 787505,
+      "totalTimesRated" : 0,
+      "viewCount" : 2,
+      "viewLastModified" : 1409937682,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 56903475,
+        "name" : "TREEID",
+        "dataTypeName" : "number",
+        "fieldName" : "treeid",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371728,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "250",
+          "sum" : "41835450350",
+          "null" : 0,
+          "average" : "277950.5584198148",
+          "largest" : "636834",
+          "top" : [ {
+            "count" : 20,
+            "item" : "564622"
+          }, {
+            "count" : 19,
+            "item" : "564623"
+          }, {
+            "count" : 18,
+            "item" : "632337"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903474,
+        "name" : "OBJECTID",
+        "dataTypeName" : "number",
+        "fieldName" : "objectid",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371727,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "1",
+          "sum" : "11327307355",
+          "null" : 0,
+          "average" : "75257.5",
+          "largest" : "150514",
+          "top" : [ {
+            "count" : 20,
+            "item" : "150412"
+          }, {
+            "count" : 19,
+            "item" : "150413"
+          }, {
+            "count" : 18,
+            "item" : "150443"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903476,
+        "name" : "ONSTREET",
+        "dataTypeName" : "text",
+        "fieldName" : "onstreet",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371729,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "100 STREET",
+          "null" : 0,
+          "largest" : "YORK STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "EASTERN PARKWAY"
+          }, {
+            "count" : 19,
+            "item" : "OCEAN PARKWAY"
+          }, {
+            "count" : 18,
+            "item" : "FLATBUSH AVENUE EXTENSION"
+          }, {
+            "count" : 17,
+            "item" : "SHORE PARKWAY SR SOUTH"
+          }, {
+            "count" : 16,
+            "item" : "SHORE PARKWAY SR NORTH"
+          }, {
+            "count" : 15,
+            "item" : "HARKNESS AVENUE"
+          }, {
+            "count" : 14,
+            "item" : "QUENTIN STREET"
+          }, {
+            "count" : 13,
+            "item" : "LINDEN BOULEVARD"
+          }, {
+            "count" : 12,
+            "item" : "EAST   42 STREET"
+          }, {
+            "count" : 11,
+            "item" : "EAST   59 STREET"
+          }, {
+            "count" : 10,
+            "item" : "EAST   95 STREET"
+          }, {
+            "count" : 9,
+            "item" : "CYPRESS AVENUE"
+          }, {
+            "count" : 8,
+            "item" : "HENRY STREET"
+          }, {
+            "count" : 7,
+            "item" : "LORRAINE STREET"
+          }, {
+            "count" : 6,
+            "item" : "COLUMBIA STREET"
+          }, {
+            "count" : 5,
+            "item" : "BAY STREET"
+          }, {
+            "count" : 4,
+            "item" : "bAY STREET"
+          }, {
+            "count" : 3,
+            "item" : "PROSPECT PARK WEST"
+          }, {
+            "count" : 2,
+            "item" : "BAY RIDGE AVENUE"
+          }, {
+            "count" : 1,
+            "item" : "CLINTON STREET"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903477,
+        "name" : "PARITY",
+        "dataTypeName" : "text",
+        "fieldName" : "parity",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371730,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "",
+          "null" : 0,
+          "largest" : "odd",
+          "top" : [ {
+            "count" : 20,
+            "item" : "odd"
+          }, {
+            "count" : 19,
+            "item" : "even"
+          }, {
+            "count" : 18,
+            "item" : ""
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903478,
+        "name" : "CROSSSTREE",
+        "dataTypeName" : "text",
+        "fieldName" : "crossstree",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371731,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "100 STREET",
+          "null" : 0,
+          "largest" : "YORK STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "FARRAGUT ROAD"
+          }, {
+            "count" : 19,
+            "item" : "MYRTLE AVENUE"
+          }, {
+            "count" : 18,
+            "item" : "GREENE AVENUE"
+          }, {
+            "count" : 17,
+            "item" : "BROOKLYN AVENUE"
+          }, {
+            "count" : 16,
+            "item" : "GILL HODGES MEMORIAL BRIDGE"
+          }, {
+            "count" : 15,
+            "item" : "KNAPP STREET"
+          }, {
+            "count" : 14,
+            "item" : "SHORE BOULEVARD"
+          }, {
+            "count" : 13,
+            "item" : "TILDEN AVENUE"
+          }, {
+            "count" : 12,
+            "item" : "CLARENDON ROAD"
+          }, {
+            "count" : 11,
+            "item" : "AVENUE K"
+          }, {
+            "count" : 10,
+            "item" : "AVENUE J"
+          }, {
+            "count" : 9,
+            "item" : "AVENUE T"
+          }, {
+            "count" : 8,
+            "item" : "AVENUE P"
+          }, {
+            "count" : 7,
+            "item" : "STARR STREET"
+          }, {
+            "count" : 6,
+            "item" : "WEST   12 STREET"
+          }, {
+            "count" : 5,
+            "item" : "HENRY STREET"
+          }, {
+            "count" : 4,
+            "item" : "COLUMBIA STREET"
+          }, {
+            "count" : 3,
+            "item" : "not listed"
+          }, {
+            "count" : 2,
+            "item" : "ballfield west"
+          }, {
+            "count" : 1,
+            "item" : "HICKS STREET"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903479,
+        "name" : "CROSSSTR_1",
+        "dataTypeName" : "text",
+        "fieldName" : "crossstr_1",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371732,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "''dead end",
+          "null" : 0,
+          "largest" : "YORK STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GLENWOOD ROAD"
+          }, {
+            "count" : 19,
+            "item" : "PARK AVENUE"
+          }, {
+            "count" : 18,
+            "item" : "HICKS STREET"
+          }, {
+            "count" : 17,
+            "item" : "BROOKLYN AVENUE"
+          }, {
+            "count" : 16,
+            "item" : "BELT PARKWAY"
+          }, {
+            "count" : 15,
+            "item" : "DEAD END"
+          }, {
+            "count" : 14,
+            "item" : "PLUMB    3 STREET"
+          }, {
+            "count" : 13,
+            "item" : "AVENUE X"
+          }, {
+            "count" : 12,
+            "item" : "AVENUE D"
+          }, {
+            "count" : 11,
+            "item" : "AVENUE K"
+          }, {
+            "count" : 10,
+            "item" : "WILLOUGHBY AVENUE"
+          }, {
+            "count" : 9,
+            "item" : "BAY   52 STREET"
+          }, {
+            "count" : 8,
+            "item" : "BAY STREET"
+          }, {
+            "count" : 7,
+            "item" : "not listed"
+          }, {
+            "count" : 6,
+            "item" : "HALLECK STREET"
+          }, {
+            "count" : 5,
+            "item" : "NOT LISTED"
+          }, {
+            "count" : 4,
+            "item" : "COURT STREET"
+          }, {
+            "count" : 3,
+            "item" : "Not listed"
+          }, {
+            "count" : 2,
+            "item" : "AVENUE O"
+          }, {
+            "count" : 1,
+            "item" : "1 STREET"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903480,
+        "name" : "BUILDINGNU",
+        "dataTypeName" : "text",
+        "fieldName" : "buildingnu",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371733,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "?",
+          "null" : 0,
+          "largest" : "unclear",
+          "top" : [ {
+            "count" : 20,
+            "item" : "not listed on"
+          }, {
+            "count" : 19,
+            "item" : "2605"
+          }, {
+            "count" : 18,
+            "item" : "3907"
+          }, {
+            "count" : 17,
+            "item" : "?"
+          }, {
+            "count" : 16,
+            "item" : "5800"
+          }, {
+            "count" : 15,
+            "item" : "1420"
+          }, {
+            "count" : 14,
+            "item" : "8801"
+          }, {
+            "count" : 13,
+            "item" : "9502"
+          }, {
+            "count" : 12,
+            "item" : "1012"
+          }, {
+            "count" : 11,
+            "item" : "201"
+          }, {
+            "count" : 10,
+            "item" : "1002"
+          }, {
+            "count" : 9,
+            "item" : "Col David Marc"
+          }, {
+            "count" : 8,
+            "item" : "Six Diamonds b"
+          }, {
+            "count" : 7,
+            "item" : "Calvert vaux n"
+          }, {
+            "count" : 6,
+            "item" : "Not listed on"
+          }, {
+            "count" : 5,
+            "item" : "Parkside"
+          }, {
+            "count" : 4,
+            "item" : "Parkside added"
+          }, {
+            "count" : 3,
+            "item" : "red hook ballf"
+          }, {
+            "count" : 2,
+            "item" : "red hook west"
+          }, {
+            "count" : 1,
+            "item" : "Parkside - no"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903481,
+        "name" : "BUILDINGST",
+        "dataTypeName" : "text",
+        "fieldName" : "buildingst",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371734,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "100 STREET",
+          "null" : 0,
+          "largest" : "YORK STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "EASTERN PARKWAY"
+          }, {
+            "count" : 19,
+            "item" : "OCEAN PARKWAY"
+          }, {
+            "count" : 18,
+            "item" : "CLINTON AVENUE"
+          }, {
+            "count" : 17,
+            "item" : "FLATBUSH AVENUE EXTENSION"
+          }, {
+            "count" : 16,
+            "item" : "SHORE PARKWAY SR SOUTH"
+          }, {
+            "count" : 15,
+            "item" : "SHORE PARKWAY SR NORTH"
+          }, {
+            "count" : 14,
+            "item" : "HARKNESS AVENUE"
+          }, {
+            "count" : 13,
+            "item" : "QUENTIN STREET"
+          }, {
+            "count" : 12,
+            "item" : "EAST   59 STREET"
+          }, {
+            "count" : 11,
+            "item" : "EAST   42 STREET"
+          }, {
+            "count" : 10,
+            "item" : "EAST   68 STREET"
+          }, {
+            "count" : 9,
+            "item" : "EAST   88 STREET"
+          }, {
+            "count" : 8,
+            "item" : "EAST   95 STREET"
+          }, {
+            "count" : 7,
+            "item" : "BAY VIEW PLACE"
+          }, {
+            "count" : 6,
+            "item" : "WASHINGTON AVENUE"
+          }, {
+            "count" : 5,
+            "item" : "CYPRESS AVENUE"
+          }, {
+            "count" : 4,
+            "item" : "EAST    5 STREET"
+          }, {
+            "count" : 3,
+            "item" : "HENRY STREET"
+          }, {
+            "count" : 2,
+            "item" : "SIGOURNEY STREET"
+          }, {
+            "count" : 1,
+            "item" : "LORRAINE STREET"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903482,
+        "name" : "TREELOCATI",
+        "dataTypeName" : "number",
+        "fieldName" : "treelocati",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371735,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "0",
+          "sum" : "303761",
+          "null" : 0,
+          "average" : "2.018157779342785",
+          "largest" : "127",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "5"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "14"
+          }, {
+            "count" : 12,
+            "item" : "12"
+          }, {
+            "count" : 11,
+            "item" : "10"
+          }, {
+            "count" : 10,
+            "item" : "8"
+          }, {
+            "count" : 9,
+            "item" : "13"
+          }, {
+            "count" : 8,
+            "item" : "11"
+          }, {
+            "count" : 7,
+            "item" : "9"
+          }, {
+            "count" : 6,
+            "item" : "0"
+          }, {
+            "count" : 5,
+            "item" : "16"
+          }, {
+            "count" : 4,
+            "item" : "18"
+          }, {
+            "count" : 3,
+            "item" : "15"
+          }, {
+            "count" : 2,
+            "item" : "17"
+          }, {
+            "count" : 1,
+            "item" : "19"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903483,
+        "name" : "SITE",
+        "dataTypeName" : "number",
+        "fieldName" : "site",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371736,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "1",
+          "sum" : "271031",
+          "null" : 0,
+          "average" : "1.800702924644884",
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8"
+          }, {
+            "count" : 19,
+            "item" : "1"
+          }, {
+            "count" : 18,
+            "item" : "4"
+          }, {
+            "count" : 17,
+            "item" : "2"
+          }, {
+            "count" : 16,
+            "item" : "3"
+          }, {
+            "count" : 15,
+            "item" : "5"
+          }, {
+            "count" : 14,
+            "item" : "7"
+          }, {
+            "count" : 13,
+            "item" : "9"
+          }, {
+            "count" : 12,
+            "item" : "6"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903484,
+        "name" : "TREEPIT",
+        "dataTypeName" : "text",
+        "fieldName" : "treepit",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371737,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "1",
+          "null" : 0,
+          "largest" : "3",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "1"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903485,
+        "name" : "TREECONDIT",
+        "dataTypeName" : "number",
+        "fieldName" : "treecondit",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371738,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "1",
+          "sum" : "318094",
+          "null" : 0,
+          "average" : "2.113384801413822",
+          "largest" : "7",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1"
+          }, {
+            "count" : 19,
+            "item" : "2"
+          }, {
+            "count" : 18,
+            "item" : "3"
+          }, {
+            "count" : 17,
+            "item" : "4"
+          }, {
+            "count" : 16,
+            "item" : "7"
+          }, {
+            "count" : 15,
+            "item" : "6"
+          }, {
+            "count" : 14,
+            "item" : "5"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903486,
+        "name" : "DIAMETER",
+        "dataTypeName" : "number",
+        "fieldName" : "diameter",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371739,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "0",
+          "sum" : "2015104",
+          "null" : 0,
+          "average" : "13.38814993954051",
+          "largest" : "1635",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5"
+          }, {
+            "count" : 19,
+            "item" : "3"
+          }, {
+            "count" : 18,
+            "item" : "23"
+          }, {
+            "count" : 17,
+            "item" : "7"
+          }, {
+            "count" : 16,
+            "item" : "29"
+          }, {
+            "count" : 15,
+            "item" : "10"
+          }, {
+            "count" : 14,
+            "item" : "8"
+          }, {
+            "count" : 13,
+            "item" : "28"
+          }, {
+            "count" : 12,
+            "item" : "11"
+          }, {
+            "count" : 11,
+            "item" : "6"
+          }, {
+            "count" : 10,
+            "item" : "2"
+          }, {
+            "count" : 9,
+            "item" : "4"
+          }, {
+            "count" : 8,
+            "item" : "9"
+          }, {
+            "count" : 7,
+            "item" : "12"
+          }, {
+            "count" : 6,
+            "item" : "17"
+          }, {
+            "count" : 5,
+            "item" : "13"
+          }, {
+            "count" : 4,
+            "item" : "15"
+          }, {
+            "count" : 3,
+            "item" : "0"
+          }, {
+            "count" : 2,
+            "item" : "16"
+          }, {
+            "count" : 1,
+            "item" : "20"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903487,
+        "name" : "SPECIES",
+        "dataTypeName" : "text",
+        "fieldName" : "species",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371740,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "",
+          "null" : 0,
+          "largest" : "ZESE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "ZESE"
+          }, {
+            "count" : 19,
+            "item" : "UNK"
+          }, {
+            "count" : 18,
+            "item" : "PLAC"
+          }, {
+            "count" : 17,
+            "item" : "GIBI"
+          }, {
+            "count" : 16,
+            "item" : "GLTR"
+          }, {
+            "count" : 15,
+            "item" : "TICO"
+          }, {
+            "count" : 14,
+            "item" : "FRPE"
+          }, {
+            "count" : 13,
+            "item" : "STJA2"
+          }, {
+            "count" : 12,
+            "item" : "TITO"
+          }, {
+            "count" : 11,
+            "item" : ""
+          }, {
+            "count" : 10,
+            "item" : "PRVISH"
+          }, {
+            "count" : 9,
+            "item" : "QURU"
+          }, {
+            "count" : 8,
+            "item" : "ACPLCR"
+          }, {
+            "count" : 7,
+            "item" : "PYCA"
+          }, {
+            "count" : 6,
+            "item" : "ACPL"
+          }, {
+            "count" : 5,
+            "item" : "QUPA"
+          }, {
+            "count" : 4,
+            "item" : "ACSA1"
+          }, {
+            "count" : 3,
+            "item" : "TIAM"
+          }, {
+            "count" : 2,
+            "item" : "ULAM"
+          }, {
+            "count" : 1,
+            "item" : "ACRU"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903488,
+        "name" : "BOROUGH",
+        "dataTypeName" : "text",
+        "fieldName" : "borough",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371741,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "Brooklyn",
+          "null" : 0,
+          "largest" : "Brooklyn",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Brooklyn"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903489,
+        "name" : "ZIPCODE",
+        "dataTypeName" : "text",
+        "fieldName" : "zipcode",
+        "position" : 15,
+        "renderTypeName" : "text",
+        "tableColumnId" : 9371742,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "",
+          "null" : 0,
+          "largest" : "11239",
+          "top" : [ {
+            "count" : 20,
+            "item" : "11206"
+          }, {
+            "count" : 19,
+            "item" : "11237"
+          }, {
+            "count" : 18,
+            "item" : "11222"
+          }, {
+            "count" : 17,
+            "item" : "11217"
+          }, {
+            "count" : 16,
+            "item" : "11216"
+          }, {
+            "count" : 15,
+            "item" : "11205"
+          }, {
+            "count" : 14,
+            "item" : "11233"
+          }, {
+            "count" : 13,
+            "item" : "11207"
+          }, {
+            "count" : 12,
+            "item" : "11208"
+          }, {
+            "count" : 11,
+            "item" : "11215"
+          }, {
+            "count" : 10,
+            "item" : "11220"
+          }, {
+            "count" : 9,
+            "item" : "11218"
+          }, {
+            "count" : 8,
+            "item" : "11219"
+          }, {
+            "count" : 7,
+            "item" : "11230"
+          }, {
+            "count" : 6,
+            "item" : "11204"
+          }, {
+            "count" : 5,
+            "item" : "11232"
+          }, {
+            "count" : 4,
+            "item" : "11213"
+          }, {
+            "count" : 3,
+            "item" : "11238"
+          }, {
+            "count" : 2,
+            "item" : "11225"
+          }, {
+            "count" : 1,
+            "item" : "11226"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903490,
+        "name" : "FID_1",
+        "dataTypeName" : "number",
+        "fieldName" : "fid_1",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371743,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "0",
+          "sum" : "5595649",
+          "null" : 0,
+          "average" : "37.17693370716345",
+          "largest" : "56",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28"
+          }, {
+            "count" : 19,
+            "item" : "29"
+          }, {
+            "count" : 18,
+            "item" : "30"
+          }, {
+            "count" : 17,
+            "item" : "32"
+          }, {
+            "count" : 16,
+            "item" : "33"
+          }, {
+            "count" : 15,
+            "item" : "34"
+          }, {
+            "count" : 14,
+            "item" : "37"
+          }, {
+            "count" : 13,
+            "item" : "39"
+          }, {
+            "count" : 12,
+            "item" : "35"
+          }, {
+            "count" : 11,
+            "item" : "36"
+          }, {
+            "count" : 10,
+            "item" : "38"
+          }, {
+            "count" : 9,
+            "item" : "40"
+          }, {
+            "count" : 8,
+            "item" : "41"
+          }, {
+            "count" : 7,
+            "item" : "42"
+          }, {
+            "count" : 6,
+            "item" : "43"
+          }, {
+            "count" : 5,
+            "item" : "44"
+          }, {
+            "count" : 4,
+            "item" : "45"
+          }, {
+            "count" : 3,
+            "item" : "31"
+          }, {
+            "count" : 2,
+            "item" : "46"
+          }, {
+            "count" : 1,
+            "item" : "49"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 56903491,
+        "name" : "COMMDIST",
+        "dataTypeName" : "number",
+        "fieldName" : "commdist",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 9371744,
+        "cachedContents" : {
+          "non_null" : 150514,
+          "smallest" : "0",
+          "sum" : "46433703",
+          "null" : 0,
+          "average" : "308.5008902826315",
+          "largest" : "409",
+          "top" : [ {
+            "count" : 20,
+            "item" : "301"
+          }, {
+            "count" : 19,
+            "item" : "302"
+          }, {
+            "count" : 18,
+            "item" : "303"
+          }, {
+            "count" : 17,
+            "item" : "305"
+          }, {
+            "count" : 16,
+            "item" : "306"
+          }, {
+            "count" : 15,
+            "item" : "307"
+          }, {
+            "count" : 14,
+            "item" : "310"
+          }, {
+            "count" : 13,
+            "item" : "312"
+          }, {
+            "count" : 12,
+            "item" : "308"
+          }, {
+            "count" : 11,
+            "item" : "309"
+          }, {
+            "count" : 10,
+            "item" : "311"
+          }, {
+            "count" : 9,
+            "item" : "313"
+          }, {
+            "count" : 8,
+            "item" : "314"
+          }, {
+            "count" : 7,
+            "item" : "315"
+          }, {
+            "count" : 6,
+            "item" : "316"
+          }, {
+            "count" : 5,
+            "item" : "317"
+          }, {
+            "count" : 4,
+            "item" : "318"
+          }, {
+            "count" : 3,
+            "item" : "304"
+          }, {
+            "count" : 2,
+            "item" : "355"
+          }, {
+            "count" : 1,
+            "item" : "402"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Agency" : "Other"
+          }
+        }
+      },
+      "owner" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/images/profile/1520/3962/greg1_large.JPG",
+        "profileImageUrlMedium" : "/images/profile/1520/3962/greg1_thumb.JPG",
+        "profileImageUrlSmall" : "/images/profile/1520/3962/greg1_tiny.JPG",
+        "screenName" : "gneuhaus"
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/images/profile/1520/3962/greg1_large.JPG",
+        "profileImageUrlMedium" : "/images/profile/1520/3962/greg1_thumb.JPG",
+        "profileImageUrlSmall" : "/images/profile/1520/3962/greg1_tiny.JPG",
+        "screenName" : "gneuhaus"
+      },
+      "flags" : [ "default" ]
+    }
+  }
+}
