@@ -1,12 +1,12 @@
 class LocationsController < ApplicationController
 
   def brooklyn
-    # render file: "#{Rails.root}/app//assets/resources/brooklyn.json",
-    # content_type: 'application/json',
-    # layout: false
-    url = "https://data.cityofnewyork.us/api/views/jix5-sqqz/rows.json?accessType=DOWNLOAD"
-    @search = HTTParty.get(url)
-    render json: @search
+    render file: "#{Rails.root}/app//assets/resources/brooklyn_pre_facts.json",
+    content_type: 'application/json',
+    layout: false
+    # url = "https://data.cityofnewyork.us/api/views/jix5-sqqz/rows.json?accessType=DOWNLOAD"
+    # @search = HTTParty.get(url)
+    # render json: @search
   end
 
   def manhattan
