@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def index
-    render layout: "application",text: ""
+  	render layout: 'application', text: ''
   end
 
 end

@@ -3572,3 +3572,147 @@ Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-22 22:46:56 
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-22 22:46:56 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:27:54 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 184ms (Views: 161.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:27:55 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:31:55 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 143ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:31:56 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:33:39 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:36 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:43 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+Processing by ApplicationController#index as HTML
+  Rendered text template within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+
+
+Started GET "/assets/pie_charts.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-23 13:34:50 -0500
